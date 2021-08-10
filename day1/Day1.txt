@@ -1,0 +1,12 @@
+   Compiler
+
+> scans the entire program and translates it as a whole into machine code.
+> compiler is faster
+> compiler generates object code which requires more memory
+
+
+   Interpretor
+
+> Translates program one statement at a time.
+> Slower than compiler
+> No object code is generated
